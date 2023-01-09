@@ -18,12 +18,11 @@ Controls: Title Screen:
   Music and Animations:
     For the music of the game I used music I found on YouTube.
     For the title screen I used this music: https://youtu.be/rHW2mtuc6pc It's from a game called "Fez" titled under the name "Legend"
-    For the in-game music I used this music: 
     Other than the background (mountain and clouds),which was found on the internet, the characters and other stuff were designed by me using the platform piskel 
     
     References:
       - I followed a youtube tutorial to understand the core mechanics of how do develop a game
-        Here is the playlist of RyiSnow's 2D adventure game (The tutorial I followed): 
+        Here is the playlist of RyiSnow's 2D adventure game (The tutorial I followed): https://youtube.com/playlist?list=PL_QPQmz5C6WUF-pOQDsbsKbaBZqXj4qSq
         
     
 In this repository I have uploaded the source code, the resources and the game as a .jar file
