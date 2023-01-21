@@ -14,7 +14,7 @@ Controls: Title Screen:
                   -> Movement: "W","A","D","S" - for jumping, moving left, moving right, and Crouching respectively. 
                   -> Shooting: "Space", Note: you can hold the space button for continuous shooting.
                   -> Pause/Play : "P"
-     !title screen(https://github.com/primequantuM4/AdventuresOfNinja-JavaSchool-Project/blob/main/screenshots/titleScreen.png?raw=true)  
+![title screen](screenshots/titleScreen.png)  
   Music and Animations:
     For the music of the game I used music I found on YouTube.
     For the title screen I used this music: https://youtu.be/rHW2mtuc6pc It's from a game called "Fez" titled under the name "Legend"
