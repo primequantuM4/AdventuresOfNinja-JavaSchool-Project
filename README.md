@@ -19,7 +19,8 @@ Controls: Title Screen:
     For the music of the game I used music I found on YouTube.
     For the title screen I used this music: https://youtu.be/rHW2mtuc6pc It's from a game called "Fez" titled under the name "Legend"
     Other than the background (mountain and clouds),which was found on the internet, the characters and other stuff were designed by me using the platform piskel 
-    
+  [!demo](screenshots/demo1.png)
+  [!anotherdemo](screenshots/demo2.png)
     References:
       - I followed a youtube tutorial to understand the core mechanics of how do develop a game
         Here is the playlist of RyiSnow's 2D adventure game (The tutorial I followed): https://youtube.com/playlist?list=PL_QPQmz5C6WUF-pOQDsbsKbaBZqXj4qSq
